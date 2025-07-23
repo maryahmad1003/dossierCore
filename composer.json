@@ -3,7 +3,9 @@
     "description": "projet",
     "autoload": {
         "psr-4": {
-            "Mary\\Core\\": "src/"
+            
+            "Mary\\Core\\": "src/",
+            "Core\\Abstract\\":"core/abstract/"
         }
     },
     "authors": [
