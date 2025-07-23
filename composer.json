@@ -1,0 +1,16 @@
+{
+    "name": "mary/core",
+    "description": "projet",
+    "autoload": {
+        "psr-4": {
+            "Mary\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amiBoulette"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
